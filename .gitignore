@@ -1,4 +1,4 @@
 build/
 *.o
-*.out
 server
+epoll_server
